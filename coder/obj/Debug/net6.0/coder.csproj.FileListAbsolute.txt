@@ -1,0 +1,14 @@
+C:\Users\rezao\source\repos\coder\coder\bin\Debug\net6.0\coder.exe
+C:\Users\rezao\source\repos\coder\coder\bin\Debug\net6.0\coder.deps.json
+C:\Users\rezao\source\repos\coder\coder\bin\Debug\net6.0\coder.runtimeconfig.json
+C:\Users\rezao\source\repos\coder\coder\bin\Debug\net6.0\coder.dll
+C:\Users\rezao\source\repos\coder\coder\bin\Debug\net6.0\coder.pdb
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.AssemblyInfoInputs.cache
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.AssemblyInfo.cs
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.csproj.CoreCompileInputs.cache
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.dll
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\refint\coder.dll
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.pdb
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\coder.genruntimeconfig.cache
+C:\Users\rezao\source\repos\coder\coder\obj\Debug\net6.0\ref\coder.dll
